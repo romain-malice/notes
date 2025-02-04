@@ -1,4 +1,5 @@
 {
   "baseFontSize": 18,
-  "cssTheme": "Typewriter"
+  "cssTheme": "Typewriter",
+  "showRibbon": false
 }
