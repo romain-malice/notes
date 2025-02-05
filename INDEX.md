@@ -4,4 +4,6 @@
 
 ## University
 
+[[b2q2-organization]]
+
 [[thc|Thermodynamique Chimique]]

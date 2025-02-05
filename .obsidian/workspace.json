@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "thc.md",
+                "file": "INDEX.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "thc"
+              "title": "INDEX"
             }
           },
           {
@@ -29,10 +29,30 @@
               "state": {
                 "file": "2502041829.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "2502041829"
+            }
+          }
+        ]
+      },
+      {
+        "id": "2939f20037ed03a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9bbc389aa5eedc78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "b2q2-organization.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "b2q2-organization"
             }
           }
         ]
@@ -96,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "thc.md",
+                "file": "b2q2-organization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +126,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for thc"
+              "title": "Backlinks for b2q2-organization"
             }
           },
           {
@@ -135,8 +155,19 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
+          },
+          {
+            "id": "3ac8a8163db88f60",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -152,10 +183,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "834aa6c90242910f",
+  "active": "9bbc389aa5eedc78",
   "lastOpenFiles": [
-    "2502041829.md",
+    "~/OneDrive/unif/edd/presentation-info-and-sources.md",
+    "b2q2-organization.md",
+    "~/OneDrive/unif/edd",
+    "~/OneDrive/unif",
+    "~/OneDrive",
+    "~",
+    "INDEX.md",
     "thc.md",
+    "2502041829.md",
     "2502041822.md",
     "2502041719.md",
     "2502041802.md",
@@ -163,7 +201,6 @@
     "2502041803.md",
     "2502041739.md",
     "2502041723.md",
-    "INDEX.md",
     "2502041644.md",
     "attachments",
     "create a link.md",
