@@ -2,7 +2,7 @@
   "foldHeading": true,
   "showInlineTitle": false,
   "attachmentFolderPath": "attachements",
-  "strictLineBreaks": true,
+  "strictLineBreaks": false,
   "vimMode": true,
   "pdfExportSettings": {
     "pageSize": "A4",

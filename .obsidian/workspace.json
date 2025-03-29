@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "b3q2-deadlines.md",
-                "mode": "preview",
+                "file": "edd-presentation-sources.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "b3q2-deadlines"
+              "title": "edd-presentation-sources"
             }
           }
         ],
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:pres",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,12 +75,12 @@
               "title": "Files"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 249.5
+    "width": 249.5,
+    "collapsed": true
   },
   "right": {
     "id": "73b350eabfb44baa",
@@ -115,13 +115,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "b3q2-deadlines.md",
+                "file": "edd-presentation-sources.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of b3q2-deadlines"
+              "title": "Outline of edd-presentation-sources"
             }
           },
           {
@@ -137,8 +137,21 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "15c7527694187ea1",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "edd-presentation-sources.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for edd-presentation-sources"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -150,7 +163,6 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "command-palette:Open command palette": false,
-      "zk-prefixer:Create new unique note": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "markdown-importer:Open format converter": false,
       "obsidian-git:Open Git source control": false,
@@ -159,13 +171,15 @@
   },
   "active": "4cbc10632a46b0ac",
   "lastOpenFiles": [
+    "article-reco-albums.md",
+    "edd-presentation-sources.md",
+    "edd-presentation-research.md",
     "index.md",
+    "b3q2-deadlines.md",
     "Untitled.md",
     "templates",
-    "b3q2-deadlines.md",
     "attachements",
     "attachements/latex-symbols.pdf",
-    "article-reco-albums.md",
     "ralph-lauren.md",
     "2502221855.md",
     "b2q2-organization.md",
@@ -190,8 +204,6 @@
     "2502041802.md",
     "2502041752.md",
     "2502041803.md",
-    "2502041739.md",
-    "2502041723.md",
     "attachments",
     "desktop.ini"
   ]

@@ -1,5 +1,5 @@
 ---
-setupfile: '\~/notes/org-latex-preamble.org'
+setupfile: \~/notes/org-latex-preamble.org
 title: Article Reco Albums
 ---
 
