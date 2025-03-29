@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5221cc604fcbf49f",
+        "id": "b7a4db9b82ae2999",
         "type": "tabs",
         "children": [
           {
-            "id": "72f7b6a69479b1fb",
+            "id": "4cbc10632a46b0ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "b3q2-deadlines.md",
-                "mode": "preview",
+                "file": "Untitled.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "b3q2-deadlines"
+              "title": "Untitled"
             }
           }
         ],
@@ -80,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5,
-    "collapsed": true
+    "width": 249.5
   },
   "right": {
     "id": "73b350eabfb44baa",
@@ -116,13 +115,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "b3q2-deadlines.md",
+                "file": "Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of b3q2-deadlines"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -153,13 +152,17 @@
       "command-palette:Open command palette": false,
       "zk-prefixer:Create new unique note": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "obsidian-git:Open Git source control": false,
+      "templates:Insert template": false
     }
   },
-  "active": "72f7b6a69479b1fb",
+  "active": "4cbc10632a46b0ac",
   "lastOpenFiles": [
-    "b3q2-deadlines.md",
     "index.md",
+    "Untitled.md",
+    "templates",
+    "b3q2-deadlines.md",
     "attachements",
     "attachements/latex-symbols.pdf",
     "article-reco-albums.md",

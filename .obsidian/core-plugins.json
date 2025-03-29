@@ -10,7 +10,7 @@
   "properties": true,
   "page-preview": true,
   "daily-notes": false,
-  "templates": false,
+  "templates": true,
   "note-composer": true,
   "command-palette": true,
   "slash-command": true,
@@ -24,7 +24,7 @@
   "slides": true,
   "audio-recorder": false,
   "workspaces": false,
-  "file-recovery": true,
+  "file-recovery": false,
   "publish": false,
   "sync": false,
   "webviewer": false

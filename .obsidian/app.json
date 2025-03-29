@@ -1,7 +1,7 @@
 {
   "foldHeading": true,
   "showInlineTitle": false,
-  "attachmentFolderPath": "attachments",
+  "attachmentFolderPath": "attachements",
   "strictLineBreaks": true,
   "vimMode": true,
   "pdfExportSettings": {
@@ -12,5 +12,9 @@
   },
   "propertiesInDocument": "visible",
   "livePreview": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "showLineNumber": true,
+  "useTab": false,
+  "tabSize": 4,
+  "promptDelete": false
 }

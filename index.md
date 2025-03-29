@@ -3,7 +3,7 @@ title: Index
 ---
 
 - University
-	- [[b3q2-deadlines]]
+    - [[b3q2-deadlines]]
 	- Articles Ingénu
 		- [[Reco albums]]
 	- Cours
