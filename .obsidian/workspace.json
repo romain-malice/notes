@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "375cb3e5e52c7e1c",
+    "type": "split",
+    "children": [
+      {
+        "id": "5221cc604fcbf49f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72f7b6a69479b1fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "b3q2-deadlines.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "b3q2-deadlines"
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d524ca406ca67459",
+    "type": "split",
+    "children": [
+      {
+        "id": "62fa162eaf80e3f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34c367e7e236cc30",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7e1a54d265c000df",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "2781b32e8f03f430",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 249.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "73b350eabfb44baa",
+    "type": "split",
+    "children": [
+      {
+        "id": "0241901c0043cee2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be30839228141d51",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "b2q2-organization.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for b2q2-organization"
+            }
+          },
+          {
+            "id": "ce2ca79fe8b9be12",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "b3q2-deadlines.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of b3q2-deadlines"
+            }
+          },
+          {
+            "id": "894c0c661a1d4749",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "72f7b6a69479b1fb",
+  "lastOpenFiles": [
+    "b3q2-deadlines.md",
+    "index.md",
+    "attachements",
+    "attachements/latex-symbols.pdf",
+    "article-reco-albums.md",
+    "ralph-lauren.md",
+    "2502221855.md",
+    "b2q2-organization.md",
+    "INDEX.md",
+    "chim0009-3.md",
+    "deadlines.md",
+    "2502091255.md",
+    "2502091245.md",
+    "2502091234.md",
+    "2502091228.md",
+    "2502061037.md",
+    "lsd.md",
+    "2502061048.md",
+    "2502041829.md",
+    "~/OneDrive/unif/edd/presentation-info-and-sources.md",
+    "~/OneDrive/unif/edd",
+    "~/OneDrive/unif",
+    "~/OneDrive",
+    "~",
+    "2502041822.md",
+    "2502041719.md",
+    "2502041802.md",
+    "2502041752.md",
+    "2502041803.md",
+    "2502041739.md",
+    "2502041723.md",
+    "attachments",
+    "desktop.ini"
+  ]
+}
