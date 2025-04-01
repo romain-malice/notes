@@ -1,7 +1,8 @@
 ---
 title: Sources Review
 tags:
-  - edd/presentation
+  - edd
+  - presentation
 ---
 
 # Talbi et al. 2024

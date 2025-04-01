@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "edd-presentation.md",
+                "file": "edd-presentation-script.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "edd-presentation"
+              "title": "edd-presentation-script"
             }
           },
           {
@@ -172,10 +172,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "edd-presentation.md"
+                "file": "edd-presentation-script.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for edd-presentation"
+              "title": "File properties for edd-presentation-script"
             }
           }
         ],
@@ -200,8 +200,8 @@
   "active": "4cbc10632a46b0ac",
   "lastOpenFiles": [
     "edd-presentation-research.md",
-    "edd-presentation.md",
     "edd-presentation-sources.md",
+    "edd-presentation-script.md",
     "b3q2-deadlines.md",
     "index.md",
     "templates/note-template.md",

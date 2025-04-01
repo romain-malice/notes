@@ -5,7 +5,6 @@ author: Romain Malice
 tags:
   - edd
   - presentation
-  - script
 ---
 
 # Introduction
