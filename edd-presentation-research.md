@@ -1,5 +1,8 @@
 ---
-title: 'PV & EVs presentation'
+title: PV & EVs presentation
+tags:
+  - edd
+  - presentation
 ---
 
 Research
@@ -32,7 +35,7 @@ Chandra et al. 2024
 
 -   Presentation of more modern charging methods
 
-Uwum et al.
+Uzum et al.
 -----------
 
 ### From abstract

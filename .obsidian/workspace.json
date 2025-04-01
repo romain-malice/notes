@@ -13,8 +13,36 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "edd-presentation.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "edd-presentation"
+            }
+          },
+          {
+            "id": "fd485bf18db26be1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "edd-presentation-sources.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "edd-presentation-sources"
+            }
+          },
+          {
+            "id": "932bb30af0a54dce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "edd-presentation-research.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -41,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,8 +103,7 @@
               "title": "Files"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -145,10 +172,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "edd-presentation-sources.md"
+                "file": "edd-presentation.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for edd-presentation-sources"
+              "title": "File properties for edd-presentation"
             }
           }
         ],
@@ -172,13 +199,13 @@
   },
   "active": "4cbc10632a46b0ac",
   "lastOpenFiles": [
+    "edd-presentation-research.md",
+    "edd-presentation.md",
     "edd-presentation-sources.md",
-    "Untitled.md",
+    "b3q2-deadlines.md",
+    "index.md",
     "templates/note-template.md",
     "article-reco-albums.md",
-    "edd-presentation-research.md",
-    "index.md",
-    "b3q2-deadlines.md",
     "templates",
     "attachements",
     "attachements/latex-symbols.pdf",
