@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "edd-presentation-sources.md",
+                "file": "edd-presentation-research.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "edd-presentation-sources"
+              "title": "edd-presentation-research"
             }
           }
         ],
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:pres",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +75,8 @@
               "title": "Files"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -171,12 +172,13 @@
   },
   "active": "4cbc10632a46b0ac",
   "lastOpenFiles": [
-    "article-reco-albums.md",
     "edd-presentation-sources.md",
+    "Untitled.md",
+    "templates/note-template.md",
+    "article-reco-albums.md",
     "edd-presentation-research.md",
     "index.md",
     "b3q2-deadlines.md",
-    "Untitled.md",
     "templates",
     "attachements",
     "attachements/latex-symbols.pdf",
@@ -203,7 +205,6 @@
     "2502041719.md",
     "2502041802.md",
     "2502041752.md",
-    "2502041803.md",
     "attachments",
     "desktop.ini"
   ]

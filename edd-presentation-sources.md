@@ -18,5 +18,13 @@ Litterature review on EVs and PV impacts in the grid, both individually and mixe
 
 - Overloading due to connection of an excessive amount of EVs.
     Leads to higher currents, (=> lower conductors lifespan) and voltage fluctuations (=> increased energy losses).
+
 ## Combined effect on the Distribution Network
 
+The effects of EV and PV seem to cancel each other…
+
+# Nwaigwe et al. 2019
+
+PV generates DC current, which is turned into an AC current through an inverter, and then penetrates the grid.
+
+Most distribution networks were designed for 1 way power flow, but PV creates power flows that can go 2 ways.
