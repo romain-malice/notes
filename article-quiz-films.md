@@ -9,8 +9,10 @@ tags:
 # Introduction
 
 Ce mois-ci, je te propose un quiz de qualité dans lequel tu dois trouver le plus de films possibles, mais en te basant sur la description d’un type qui n’y a rien compris !
-En prime, si tu les trouve tous, tu gagnera instantanément un de mes 39 post-it AEES de Noël (toujours sous blister !).
-Certains sont faciles, d’autres moins (j’ai eu la flemme de les classer par difficulté).
+En prime, si tu les trouve tous, tu gagnera instantanément un de 39 post-it AEES de Noël qui trainent sur mon bureau depuis décembre !
+
+J’ai eu la flemme de les classer par difficulté, donc fais les dans l’ordre que tu veux.
+Bonne chance !
 
 # Quiz
 
