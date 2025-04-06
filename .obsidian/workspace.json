@@ -4,49 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b7a4db9b82ae2999",
+        "id": "6e6a6a9555843b96",
         "type": "tabs",
         "children": [
           {
-            "id": "4cbc10632a46b0ac",
+            "id": "d70460b70b2fb780",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "edd-presentation-script.md",
+                "file": "article-quiz-films.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "edd-presentation-script"
-            }
-          },
-          {
-            "id": "fd485bf18db26be1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "edd-presentation-sources.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "edd-presentation-sources"
-            }
-          },
-          {
-            "id": "932bb30af0a54dce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "edd-presentation-research.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "edd-presentation-research"
+              "title": "article-quiz-films"
             }
           }
         ],
@@ -69,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +75,8 @@
               "title": "Files"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -193,15 +166,16 @@
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "markdown-importer:Open format converter": false,
-      "obsidian-git:Open Git source control": false,
       "templates:Insert template": false
     }
   },
-  "active": "4cbc10632a46b0ac",
+  "active": "d70460b70b2fb780",
   "lastOpenFiles": [
+    "edd-presentation-script.md",
+    "article-quiz-films.md",
+    "lsd-summary.md",
     "edd-presentation-research.md",
     "edd-presentation-sources.md",
-    "edd-presentation-script.md",
     "b3q2-deadlines.md",
     "index.md",
     "templates/note-template.md",
@@ -230,8 +204,6 @@
     "~",
     "2502041822.md",
     "2502041719.md",
-    "2502041802.md",
-    "2502041752.md",
     "attachments",
     "desktop.ini"
   ]
