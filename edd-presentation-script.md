@@ -11,6 +11,10 @@ tags:
 
 # Distribution Networks Basics
 
+## Overview Of Electricity Delivery
+
+Power plant → transmission lines (HV) → distribution substations → distribution network (MV~1-10kV) → industries (MV)/local networks (LV~220V)
+
 # PV Integration
 
 ## Means
