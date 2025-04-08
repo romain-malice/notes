@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "cf6e5ffb226d40a3",
+            "id": "d0188445dca8798e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,9 +34,24 @@
               "icon": "lucide-file",
               "title": "edd-presentation-script"
             }
+          },
+          {
+            "id": "9228ebb3ff1e1199",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "edd-presentation-sources.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "edd-presentation-sources"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 1,
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -184,11 +199,15 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "cf6e5ffb226d40a3",
+  "active": "d0188445dca8798e",
   "lastOpenFiles": [
-    "slides-test.md",
     "gemine-et-al-2017.md",
     "edd-presentation-script.md",
+    "edd-presentation-sources.md",
+    "edd-presentation-research.md",
+    "exports",
+    "export",
+    "slides-test.md",
     "my-scripts.md",
     "attachements/img-cool.png",
     "slides/reveal.js-master/dist/theme/fonts/source-sans-pro/source-sans-pro.css",
@@ -199,8 +218,6 @@
     "slides/reveal.js-master/dist/theme/fonts/source-sans-pro/source-sans-pro-semibold.ttf",
     "slides/reveal.js-master/dist/theme/fonts/source-sans-pro/source-sans-pro-semibold.eot",
     "slides/reveal.js-master/dist/theme/fonts/source-sans-pro/source-sans-pro-regular.woff",
-    "slides/reveal.js-master/dist/theme/fonts/source-sans-pro/source-sans-pro-regular.ttf",
-    "slides/reveal.js-master/dist/theme/fonts/source-sans-pro/source-sans-pro-regular.eot",
     "slides/reveal.js-master/examples/assets/image2.png",
     "slides/reveal.js-master/examples/assets/image1.png",
     "slides/reveal.js-master/css/theme/README.md",
@@ -213,8 +230,6 @@
     "slides/test/simple.md",
     "slides/examples/markdown.md",
     "slides/README.md",
-    "edd-presentation-sources.md",
-    "edd-presentation-research.md",
     "article-quiz-films.md",
     "lsd-summary.md",
     "b3q2-deadlines.md",
