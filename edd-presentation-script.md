@@ -90,18 +90,30 @@ Moreover, since the power generation of PV panels is not predictable, fitting th
 
 ## Means
 
+Even though inductive charging has been discussed[^4], most electric vehicles are using conductive charging methods, meaning charging through a conductor.
+Within this category, several regulations exist.
+In Europe, EV charging techniques are classified within 4 categories called _modes_.
+
+Modes 1, 2 and 3 use AC to transfer power to the vehicle, and the AC/DC conversion is handled by the vehicle.
+Modes 1 and 2 are the charging methods that use 230V plugs, and are the slowest, with a charging capacity of max. 2.3 and 7.4 kW in single phase, respectively.
+The main difference between modes 1 and 2 is the presence of a monitoring device, that ensures safety and avoids overloading.
+
+Mode 3 uses a charging station that communicates with the vehicle in order to modulate the charging capacity.
+This mode can operate at 11 or 22 kW.
+
+Mode 4 uses DC, and is used for fast-charging mostly, with charging capacities from 50 to 175 kW (in 2019).
+In this mode, the charging station takes care of the AC/DC conversion.[^5]
+
 ## Challenges
+
 %%
-Investigate :
-- Voltage fluctuations
-- Decreased conductors lifespan 
-- Increased energy losses
-- Exceeding of transformers nominal load capacity
-- Overloading
-- Variations in frequency
+Generation : if charging on off-peak hours, no problems, if on, increase in peak load demand
+Transformers : exceeding of rated capacity
+
 %%
 
-The first problem encountered with 
+As seen earlier, the charging of EVs pulls a significant load on the grid, and can cause several problems.
+Among them, we can identify 3 
 
 %%
 # Impact of both PV & EV
@@ -119,3 +131,7 @@ The first problem encountered with
 [^2]: EDD Chapter 7 (solar energy)
 
 [^3]: Nwaigwe et al. 2019
+
+[^4]: Aqueel Ahmad, Zeeshan Ahmad Khan, Mohammad Saad Alam & Siddique Khateeb (2018) A Review of the Electric Vehicle Charging Techniques, Standards, Progression and Evolution of EV Technologies in Germany, Smart Science, 6:1, 36-53, DOI:10.1080/23080477.2017.1420132
+
+[^5]: https://nklnederland.nl/wp-content/uploads/2021/12/Electric_Vehicle_Charging_-_Definitions_and_Explanation_-_january_2019.pdf
