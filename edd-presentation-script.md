@@ -15,17 +15,15 @@ tags:
 
 ## Overview Of Electricity Delivery
 %%
-Power plant → transmission lines (HV) → distribution substations → distribution network (MV~1-10kV) → industries (MV)/local networks (LV~220V)
+Power plant → transmission lines (HV~100s of kV) → distribution substations → distribution network (MV~1 to 10 kV) → industries (MV)/local networks (LV~220V)
 distribution network : set of nodes that generate or consume energy
 %%
 
-The basic structure of an electricity delivery network is the following :
+The _basic structure_ of an electricity delivery network is the following :
 1. Electricity is produced in power plants
-2. Most power plants are relatively far from zones with a high density of users. Transmission lines are high voltage lines that convey electricity from the power plant to the high demand zones
+2. Most power plants are relatively far from zones with a high density of users. Transmission lines are high voltage lines (~ 100s of kV) that convey electricity from the power plant to the high demand zones
 3. Distribution substations turn the high voltages of the transmission lines into medium voltages (1-10kV), which are injected in distribution grids
-4. Distribution grids give access to electricity directly to industries, or to homes and businesses, who are supplied through local distribution networks at lower voltages (220V)
-
-Citation ?
+4. Distribution grids give access to electricity directly to industries, or to homes and businesses, who are supplied through local distribution networks at lower voltages (220V)[^1][^3]
 
 ## Goals of DNs
 %%
@@ -33,8 +31,8 @@ power flow direction : 1 direction usually, 2 with solar generation
 parameters to keep constant : V, I, f
 %%
 
-Give access to electricity to homes & businesses.
-What we call a _stable_ grid is one that delivers a constant voltage at a constant frequency to all of its users.
+The DNO (Distribution Network Operator) aims at delivering constant power to the users of the network.
+In order to do that, they have to ensure power stability (return to equilibrium of the components after disturbance), constant voltage profiles (in amplitude and frequency), and deal with the different faults happening in the grid.
 
 # PV Integration
 
@@ -54,7 +52,7 @@ The irradiance level is an unknown function of time, and is then responsible for
 
 Solar panels produce a direct current, which needs to go through an inverter (electronic component), which turns it into alternative current.
 This current is then fed through a transformer that increases its voltage, before penetrating the grid.
-This whole process is called grid integration.[^3]
+This whole process is called _grid integration_.[^3]
 
 ## Challenges
 %%
@@ -78,42 +76,48 @@ ln the case of larger solar farms that would require longer energy transportatio
 
 Moreover, since the power generation of PV panels is not predictable, fitting the power generation to the grid needs would require constant adjusting of the parameters of the generation.
 
-## Summary
-
-- PV creates DC with photovoltaic effect, which goes through an inverter and a transformer before penetrating the grid
-- PV generation is distributed, meaning that it injects power from the inside of the distribution network and is not necessarily controlled by the DSO (>< classic power plants)
-
-- PV can interfere with power flows in the grid and affect the quality of the power delivered to nearby users
-- PV, as other renewable sources, is inconsistent in its power delivery, which makes it hard to integrate without causing problems in the grid power quality
-
 # EV Integration
 
 ## Means
 
-Even though inductive charging has been discussed[^4], most electric vehicles are using conductive charging methods, meaning charging through a conductor.
-Within this category, several regulations exist.
-In Europe, EV charging techniques are classified within 4 categories called _modes_.
+Even though inductive charging has been discussed[^4], most residential electric vehicles are using conductive charging methods, meaning charging through a conductor.
 
-Modes 1, 2 and 3 use AC to transfer power to the vehicle, and the AC/DC conversion is handled by the vehicle.
-Modes 1 and 2 are the charging methods that use 230V plugs, and are the slowest, with a charging capacity of max. 2.3 and 7.4 kW in single phase, respectively.
-The main difference between modes 1 and 2 is the presence of a monitoring device, that ensures safety and avoids overloading.
+_Conductive charging_ can be separated into different categories based on how the power is transmitted at the charging station.
 
-Mode 3 uses a charging station that communicates with the vehicle in order to modulate the charging capacity.
-This mode can operate at 11 or 22 kW.
+The first distinction to make is between _AC and DC charging_.
+The first simply outputs AC power coming from the grid directly to the vehicle, which is converted into DC for the EV by a converter integrated in the EV charging system.
+The latter includes an AC/DC converter in the charging station, and recharges the car in DC power.
+DC chargers can feed EVs at higher power ratings, and are therefore faster (~20min), while AC chargers are slower (~a few hours).
 
-Mode 4 uses DC, and is used for fast-charging mostly, with charging capacities from 50 to 175 kW (in 2019).
-In this mode, the charging station takes care of the AC/DC conversion.[^5]
+A second difference can be noticed within EV chargers : _on-board and off-board chargers_.
+This refers to the position of the circuit that manages the charging process and the AC/DC conversion.
+An on-board chargers allows the vehicle to charge from AC chargers and from home, but have lower ratings, which makes charging slow.
+Off-board chargers, on the other hand, are included in the charging station, which removes constraints on weight and size, and improves the charging speed.
+
+One last classification between charging methods is _unidirectional and bidirectional power flow_.
+In a classical manner, EV are charged by simply pulling power from the grid through a charging station.
+However, research has been investigating bi-directional charging, which are chargers that allow V2G transfer of power, along with G2V.
+The advantage of this method is that the vehicle can interact with the grid, and help with stability.
+However, this technology is not yet widespread as it is still in development and more expensive.[^7]
 
 ## Challenges
 
 %%
 Generation : if charging on off-peak hours, no problems, if on, increase in peak load demand
 Transformers : exceeding of rated capacity
-
+decrease in power quality
+source : [^6]
 %%
 
-As seen earlier, the charging of EVs pulls a significant load on the grid, and can cause several problems.
-Among them, we can identify 3 
+The integration of a large number of EVs in the grid can have a few impacts that can be challenging to mitigate, due to the _important load_ that an EV represent (charging from the house ~ doubles the household power consumption) and the rapidly growing number of EVs due to regulations and incentives.[^7]
+This load, if not managed properly (i.e. charging during peak hours) can significantly increase the peak load demand, which can negatively affect the grid.
+
+First, the components themselves are impacted, since load demands that are too high can exceed their nominal power capacity.
+It is the case for conductors[^8] and transformers[^6], which can be overloaded during higher load demand periods.
+
+Then, power quality issues are introduced as well by this load increase, which include voltage drops, harmonics, instability, as well as power losses.[^7]
+
+Finally, unsupervised EV integration could exceed the system capacity, which would create the need for significant network upgrades.[^7]
 
 %%
 # Impact of both PV & EV
@@ -126,12 +130,18 @@ Among them, we can identify 3
 # Conclusion
 %%
 
-[^1]: Gemine et al. 2017
+[^1]: Gemine, Q., Ernst, D. & Cornélusse, B. Active network management for electrical distribution systems: problem formulation, benchmark, and approximate solution. Optim Eng 18, 587–629 (2017). https://doi.org/10.1007/s11081-016-9339-9>)
 
-[^2]: EDD Chapter 7 (solar energy)
+[^2]: Ernst, D. (2025), Energy and sustainable development, Chapter 07 - Solar energy, https://damien-ernst.be/teaching/genv0002-1-sustainable-energy/
 
-[^3]: Nwaigwe et al. 2019
+[^3]: K.N. Nwaigwe, P. Mutabilwa, E. Dintwa, An overview of solar power (PV systems) integration into electricity grids, Materials Science for Energy Technologies, Volume 2, Issue 3,2019, Pages 629-633, ISSN 2589-2991, https://doi.org/10.1016/j.mset.2019.07.002.
 
 [^4]: Aqueel Ahmad, Zeeshan Ahmad Khan, Mohammad Saad Alam & Siddique Khateeb (2018) A Review of the Electric Vehicle Charging Techniques, Standards, Progression and Evolution of EV Technologies in Germany, Smart Science, 6:1, 36-53, DOI:10.1080/23080477.2017.1420132
 
 [^5]: https://nklnederland.nl/wp-content/uploads/2021/12/Electric_Vehicle_Charging_-_Definitions_and_Explanation_-_january_2019.pdf
+
+[^6]: A. Dubey and S. Santoso, "Electric Vehicle Charging on Residential Distribution Systems: Impacts and Mitigations," in IEEE Access, vol. 3, pp. 1871-1893, 2015, doi: 10.1109/ACCESS.2015.2476996.
+
+[^7]: Al-Amin, GM Shafiullah, Md Shoeb, SM Ferdous, Martin Anda, Grid Integration of EV: A review on stakeholder's objectives, challenges, and strategic implications, e-Prime - Advances in Electrical Engineering, Electronics and Energy, Volume 11, 2025, 100930, ISSN 2772-6711, https://doi.org/10.1016/j.prime.2025.100930.
+
+[^8]: Talbi, Boutaina & Derri, Mounir & Haidi, Touria & Janyenne, Abderrahmane. (2024). Review of the Integration of Photovoltaic and Electric Vehicles on Distribution Network: Impacts and Enhancement Approaches. Procedia Computer Science. 236. 93-100. 10.1016/j.procs.2024.05.009.
