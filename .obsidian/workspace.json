@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "edd-presentation-script.md",
+                "file": "linux-tools.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "edd-presentation-script"
+              "title": "linux-tools"
             }
           }
         ],
@@ -116,13 +116,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "edd-presentation-sources.md",
+                "file": "linux-tools.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of edd-presentation-sources"
+              "title": "Outline of linux-tools"
             }
           },
           {
@@ -145,14 +145,14 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "edd-presentation-script.md"
+                "file": "linux-tools.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for edd-presentation-script"
+              "title": "File properties for linux-tools"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -172,8 +172,9 @@
   },
   "active": "d0188445dca8798e",
   "lastOpenFiles": [
-    "edd-presentation-slides.md",
+    "linux-tools.md",
     "edd-presentation-script.md",
+    "edd-presentation-slides.md",
     "gemine-et-al-2017.md",
     "edd-presentation-sources.md",
     "edd-presentation-research.md",
@@ -211,7 +212,6 @@
     "ralph-lauren.md",
     "2502221855.md",
     "b2q2-organization.md",
-    "INDEX.md",
-    "chim0009-3.md"
+    "INDEX.md"
   ]
 }
