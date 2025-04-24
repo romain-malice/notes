@@ -2,16 +2,32 @@
 title: Index
 ---
 
-- University
-    - [[b3q2-deadlines]]
-	- Articles Ingénu
-		- [[Reco albums]]
-	- Cours
-        
-		Goal for each course :
-		-   summary = concepts & formula list
-		-   Exercises resolutions = detailed resolution of practice sessions
-- Style
-	- [[Ralph Lauren]]
+# University
 
---------------------------------
+## Organization
+
+Daily organization during the pre-blocus : [[easter-blocus]].
+
+## Material
+
+### Classes
+
+Summaries and exercises answers.
+
+- [[eec-summary]]
+
+### Projects
+
+Projet mélanges : [[projet-mélanges]]
+
+## Ingénu
+
+Liste des articles :
+- [[article-quiz-films]]
+- [[article-reco-albums]]
+
+---
+
+# Style
+
+[[Ralph Lauren]]

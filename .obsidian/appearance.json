@@ -3,5 +3,5 @@
   "cssTheme": "Obsidian Nord",
   "showRibbon": false,
   "theme": "moonstone",
-  "showViewHeader": true
+  "showViewHeader": false
 }

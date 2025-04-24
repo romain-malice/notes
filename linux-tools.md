@@ -46,10 +46,16 @@ Comments in the file make the process quite straightforward.
 
 ### Sway
 
+> [!todo] TODO list to reach a usable system
+> - [ ] Configure keyboard (esc ←> caps lock) and touchpad (touch to click, natural scroll)
+> - [ ] Add external monitor config (+ maybe a way to easily connect to a new monitor like a projector)
+> - [ ] Solve ugly font rendering in obsidian
+> - [ ] Configure status bar
+
 #### Introduction
 
 Equivalent of i3 in wayland.
-On my laptop, KDE defaults to Wayland and I didn’t have any issues yet.
+On my laptop, KDE defaults to Wayland and I didn’t have any issues yet, so I will try to use this one.
 
 It is a minimal tiling window manager, it means the windows organize themselves automatically to take the whole screen together.
 It is possible to move them around and unsnap them from the grid they are on, so it is still possible to have a normal experience.

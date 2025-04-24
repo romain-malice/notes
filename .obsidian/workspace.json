@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6e6a6a9555843b96",
+        "id": "1e822d1da0a8d52f",
         "type": "tabs",
         "children": [
           {
-            "id": "d0188445dca8798e",
+            "id": "5de2735cd05ba9f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux-tools.md",
+                "file": "eec-summary.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "linux-tools"
+              "title": "eec-summary"
             }
           }
         ],
@@ -36,33 +36,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "34c367e7e236cc30",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
-            }
-          },
-          {
-            "id": "7e1a54d265c000df",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
-            }
-          },
-          {
             "id": "2781b32e8f03f430",
             "type": "leaf",
             "state": {
@@ -74,9 +47,50 @@
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
+          },
+          {
+            "id": "81767c53ed67af61",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c79934b49213d284",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#edd",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0d2ce0d4ae86e6e1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -92,12 +106,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "be30839228141d51",
+            "id": "15c7527694187ea1",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "projet-mélanges.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for projet-mélanges"
+            }
+          },
+          {
+            "id": "14c6efa5b8582246",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "b2q2-organization.md",
+                "file": "tagging-strategy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,26 +133,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for b2q2-organization"
+              "title": "Backlinks for tagging-strategy"
             }
           },
           {
-            "id": "ce2ca79fe8b9be12",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "linux-tools.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of linux-tools"
-            }
-          },
-          {
-            "id": "894c0c661a1d4749",
+            "id": "4e8e0e4c5df5d383",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -138,21 +149,29 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "ab3a0a949d22bb7d",
+        "type": "tabs",
+        "children": [
           {
-            "id": "15c7527694187ea1",
+            "id": "ce2ca79fe8b9be12",
             "type": "leaf",
             "state": {
-              "type": "file-properties",
+              "type": "outline",
               "state": {
-                "file": "linux-tools.md"
+                "file": "projet-mélanges.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
-              "icon": "lucide-info",
-              "title": "File properties for linux-tools"
+              "icon": "lucide-list",
+              "title": "Outline of projet-mélanges"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -167,17 +186,28 @@
       "graph:Open graph view": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "templates:Insert template": false
+      "templates:Insert template": false,
+      "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "d0188445dca8798e",
+  "active": "5de2735cd05ba9f7",
   "lastOpenFiles": [
-    "linux-tools.md",
+    "2504232232.md",
+    "eec-summary.md",
+    "attachements/Pasted image 20250423121722.png",
+    "easter-blocus.md",
+    "tagging-strategy.md",
+    "index.md",
+    "projet-mélanges.md",
+    "article-quiz-films.md",
+    "b3q2-deadlines.md",
+    "article-reco-albums.md",
+    "edd-presentation-research.md",
     "edd-presentation-script.md",
     "edd-presentation-slides.md",
-    "gemine-et-al-2017.md",
     "edd-presentation-sources.md",
-    "edd-presentation-research.md",
+    "gemine-et-al-2017.md",
+    "linux-tools.md",
     "exports",
     "export",
     "slides-test.md",
@@ -203,15 +233,6 @@
     "slides/test/simple.md",
     "slides/examples/markdown.md",
     "slides/README.md",
-    "article-quiz-films.md",
-    "lsd-summary.md",
-    "b3q2-deadlines.md",
-    "index.md",
-    "templates/note-template.md",
-    "article-reco-albums.md",
-    "ralph-lauren.md",
-    "2502221855.md",
-    "b2q2-organization.md",
-    "INDEX.md"
+    "lsd-summary.md"
   ]
 }

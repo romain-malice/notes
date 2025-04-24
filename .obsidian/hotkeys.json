@@ -33,5 +33,21 @@
       "key": "G"
     }
   ],
-  "graph:open": []
+  "graph:open": [],
+  "app:go-back": [
+    {
+      "modifiers": [
+        "Mod",
+        "Alt"
+      ],
+      "key": "ArrowLeft"
+    },
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "B"
+    }
+  ],
+  "editor:toggle-bold": []
 }
