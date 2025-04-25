@@ -1,11 +1,13 @@
 ---
-title: EEC Summary
+title: EEC Concept List
 author: Romain Malice
 date: 24/04/2025
 tags:
     - course/eec
     - summary
 ---
+
+# Unclear Zone
 
 # Transformer
 
@@ -25,3 +27,18 @@ tags:
     - No load test
     - Short-circuit test
 - Air gap
+
+# Synchronous Machines
+
+- Basic idea
+- Geometry
+    - General
+    - Rotor
+    - Stator
+- No load characteristic
+    - $E_{v} = f(I_{e})$ graph
+    - Math expression
+- Potier diagram
+- Reactions
+    - Demagetizing
+    - Magnetizing
