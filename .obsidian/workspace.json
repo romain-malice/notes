@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eec-summary.md",
+                "file": "cours-math-4-26.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "eec-summary"
+              "title": "cours-math-4-26"
             }
           }
         ],
@@ -192,8 +192,9 @@
   },
   "active": "5de2735cd05ba9f7",
   "lastOpenFiles": [
-    "2504232232.md",
     "eec-summary.md",
+    "cours-math-4-26.md",
+    "2504232232.md",
     "attachements/Pasted image 20250423121722.png",
     "easter-blocus.md",
     "tagging-strategy.md",
@@ -232,7 +233,6 @@
     "slides/css/theme/README.md",
     "slides/test/simple.md",
     "slides/examples/markdown.md",
-    "slides/README.md",
-    "lsd-summary.md"
+    "slides/README.md"
   ]
 }
