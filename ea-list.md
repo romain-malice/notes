@@ -31,7 +31,7 @@ tags:
 
 - Semiconducteurs
     - Modèle de Drude
-        - Loi du mouvement : $$ \frac{\mathrm{d} v_{x} }{\mathrm{d}t} = - \frac{e}{m} E_{x} - \frac{v_{x}}{\tau} $$
+        - Loi du mouvement : $$\frac{\mathrm{d} v_{x} }{\mathrm{d}t} = - \frac{e}{m} E_{x} - \frac{v_{x}}{\tau}$$
     - Conductivité (générale) : $$ \sigma = \frac{1}{\rho} = - \frac{ne^{2}\tau}{m} $$
     - Concentration intrinsèque : $$ n_{i}(T) = n = p = BT^{3 / 2} e^{-E_{g}/2kT} $$
     - Conductivité semi-conducteur : $$ \sigma = \frac{J_{x}}{E_{x}} = e \left( n\mu_{n} + p\mu_{p} \right) E_{x} $$
