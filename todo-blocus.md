@@ -80,6 +80,10 @@ title: TODO blocus
 
 # Télécom
 
+Nombre de jours : 4.5
+
+## Théorie
+
 1. Signaux
 2. Modulation CT
 3. Proba, stocha, bruit
@@ -90,3 +94,32 @@ title: TODO blocus
 8. Code
 9. Propagation & systèmes radio
 10. GSM, 4G, 5G, transmission sur réseau d'alimentation domestique
+
+## Exercices
+
+1. Modulation analogique
+2. Outils stochastiques
+3. Numérisation
+4. Transmission en bande de base
+5. Code
+6. Systèmes radio
+
+# Thermo
+
+Nombre de jours : 4.5
+
+## Corps purs
+
+1. Fonctions thermodynamiques
+2. Gaz parfait
+3. Propriétés des corps purs
+4. Prédiction des propriétés
+5. Équations d'état
+
+## Mélanges
+
+1. Modélisation des mélanges
+2. Équilibres multiphasiques
+3. Déviation à l'idéalité en phase liquide
+4. Équations d'état appliquées aux mélanges
+5. Réactions chimiques
