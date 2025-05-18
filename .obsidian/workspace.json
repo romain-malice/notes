@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1e822d1da0a8d52f",
+        "id": "f05dde9c49c1fdba",
         "type": "tabs",
         "children": [
           {
-            "id": "5de2735cd05ba9f7",
+            "id": "23290eb171096038",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cours-math-4-26.md",
+                "file": "Math concepts.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "cours-math-4-26"
+              "title": "Math concepts"
             }
           }
         ],
@@ -190,15 +190,18 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "5de2735cd05ba9f7",
+  "active": "23290eb171096038",
   "lastOpenFiles": [
-    "eec-summary.md",
+    "index.md",
+    "Math concepts.md",
+    "cours-math-6-5.md",
+    "ea-list.md",
     "cours-math-4-26.md",
+    "eec-summary.md",
     "2504232232.md",
     "attachements/Pasted image 20250423121722.png",
     "easter-blocus.md",
     "tagging-strategy.md",
-    "index.md",
     "projet-mélanges.md",
     "article-quiz-films.md",
     "b3q2-deadlines.md",
@@ -230,9 +233,6 @@
     "slides/reveal.js-master/README.md",
     "slides/examples/assets/image2.png",
     "slides/examples/assets/image1.png",
-    "slides/css/theme/README.md",
-    "slides/test/simple.md",
-    "slides/examples/markdown.md",
-    "slides/README.md"
+    "slides/css/theme/README.md"
   ]
 }
