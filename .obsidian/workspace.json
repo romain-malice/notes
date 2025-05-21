@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f05dde9c49c1fdba",
+        "id": "ecbf2409da033c91",
         "type": "tabs",
         "children": [
           {
-            "id": "23290eb171096038",
+            "id": "ca86e237a464e7c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math concepts.md",
+                "file": "todo-blocus.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Math concepts"
+              "title": "todo-blocus"
             }
           }
         ],
@@ -190,10 +190,11 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "23290eb171096038",
+  "active": "ca86e237a464e7c8",
   "lastOpenFiles": [
-    "index.md",
+    "todo-blocus.md",
     "Math concepts.md",
+    "index.md",
     "cours-math-6-5.md",
     "ea-list.md",
     "cours-math-4-26.md",
@@ -232,7 +233,6 @@
     "slides/reveal.js-master/examples/markdown.md",
     "slides/reveal.js-master/README.md",
     "slides/examples/assets/image2.png",
-    "slides/examples/assets/image1.png",
-    "slides/css/theme/README.md"
+    "slides/examples/assets/image1.png"
   ]
 }

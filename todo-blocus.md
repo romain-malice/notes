@@ -2,12 +2,13 @@
 title: TODO blocus
 ---
 
+
 # Électronique analogique
 
 ## Théorie
 
 1. Semiconducteurs : principes de base
-2. Fonctionnement jonctions pn 
+2. Jonctions pn 
 3. Transistor bjt
 4. Polarisation bjt
 5. Amplis faible $P$
