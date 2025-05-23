@@ -1,12 +1,4 @@
----
-title: Easter Blocus Organization
-author: Romain Malice
-date: 21/04/2025
-tags:
-  - organization
----
-
-# TO DO
+# TO DO blocus 2025
 
 ## Courses
 
@@ -21,8 +13,8 @@ tags:
     - [ ] Overview of the course material
     - [ ] Summary of the harder concepts
 - Électronique analogique
-    - [ ] Basic physics of p-n junction
-    - [ ] Diodes
+    - [x] Basic physics of p-n junction
+    - [x] Diodes
     - [ ] Transistors
     - [ ] How to analyze amplification circuits
 - Electromagnetic energy conversion
@@ -32,16 +24,6 @@ tags:
     - [ ] DC
 - Télécom
     - [ ] Exam-type exercises review
-
-## Projects
-
-- Thermo mélanges (→ )
-    - [ ] (Understand Igor’s answers)
-    - [ ] Get python resolution
-    - [ ] Progress
-- Raw materials (→ 16/5)
-    - [ ] Q1
-    - [ ] Q2
 
 # Planning
 
