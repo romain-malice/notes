@@ -8,3 +8,5 @@
 # Asynchronous machines
 
 # DC machines
+
+- Armature reaction :
