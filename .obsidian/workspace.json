@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "todo-blocus.md",
+                "file": "eec-summary.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "todo-blocus"
+              "title": "eec-summary"
             }
           }
         ],
@@ -192,6 +192,7 @@
   },
   "active": "ca86e237a464e7c8",
   "lastOpenFiles": [
+    "linux-system.md",
     "todo-blocus.md",
     "Math concepts.md",
     "index.md",
@@ -231,7 +232,6 @@
     "slides/reveal.js-master/css/theme/README.md",
     "slides/reveal.js-master/test/simple.md",
     "slides/reveal.js-master/examples/markdown.md",
-    "slides/reveal.js-master/README.md",
     "slides/examples/assets/image2.png",
     "slides/examples/assets/image1.png"
   ]

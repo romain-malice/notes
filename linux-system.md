@@ -6,6 +6,7 @@
 - Sway WM
 - Kitty terminal
 - Rofi (wayland) app launcher
+- pywall16
 
 ## Next
 
