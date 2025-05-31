@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eec-summary.md",
+                "file": "eec.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "eec-summary"
+              "title": "eec"
             }
           }
         ],

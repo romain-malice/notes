@@ -9,4 +9,8 @@
 
 # DC machines
 
-- Armature reaction :
+- Armature reaction : cables dans l'armature provoquent champ magnétique + chute de potentiel
+
+# Infos importantes
+
+- emf = chute de potentielle dans un circuit ($\mathcal{ E }=-\frac{ \partial \phi }{ \partial t } $ par exempe)
